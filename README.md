@@ -75,4 +75,4 @@
 |Character|Node.ch|노드에 담겨있는 각 문자들을 해시 맵에 저장하기 위한 변수|
 |String|String|각 문자에 해당되는 허프만 코드를 저장하는 변수|
 
-※ 우선순위 큐(PriorityQueue), 해시 맵(HashMap)은 자바에서 기본적으로 제공하는 구현되어 있는 클래스를 사용하였음.
+※ 우선순위 큐(PriorityQueue), 해시 맵(HashMap)은 자바에서 기본적으로 제공하는 구현 클래스를 사용하였음.
