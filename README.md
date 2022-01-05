@@ -76,3 +76,17 @@
 |String|String|각 문자에 해당되는 허프만 코드를 저장하는 변수|
 
 ※ 우선순위 큐(PriorityQueue), 해시 맵(HashMap)은 자바에서 기본적으로 제공하는 구현 클래스를 사용하였음.
+
+<br/><br/>
+
+# 실행 흐름도
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74342121/148163377-d40dfbf1-2ad2-4642-9166-3c1be161d18c.png" width="900" height="600">
+</p>
+  
+<br/><br/>
+  
+# 시스템 구성
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74342121/148163379-2a6f0e77-401d-4b12-9091-be30b62d3415.png" width="680" height="500">
+</p>
